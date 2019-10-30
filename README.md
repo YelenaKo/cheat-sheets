@@ -16,14 +16,15 @@
 
 ## [JavaScript](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home)
 
-:octocat:  [ES6](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home/_edit#new-in-es6--ecmascript-6-)
-
-:octocat:  [Closures and Execution Stack](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home/_edit#closures-and-execution-stack)
-
-:octocat:  [IIFE](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home/_edit#iife)
-
-:octocat:  [First-Class Functions](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home/_edit#first-class-function)
-
+```
+╔  ES6
+╠  Closures and Execution Stack
+╠  IIFE
+╠  First-Class Functions
+╠  
+╠  
+╚  
+```
 ---
 
 ## [ReactJS](https://github.com/YelenaKo/ReactJs-TodoList/wiki)
