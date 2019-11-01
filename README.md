@@ -1,6 +1,12 @@
 # My cheat sheets
 ---
 
+* [Git & GitHub](#git--github)
+* [Bash](#bash)
+* [JavaScript](#javascript)
+* [ReactJS](#reactjs)
+
+---
 ## [Git & GitHub](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-Git-&-GitHub)
 
 ```
@@ -12,6 +18,19 @@
 ╠  Commit and push
 ╚  Refactor file names
 ```
+[▲ Page Up](#my-cheat-sheets)
+
+---
+
+## [Bash](https://github.com/YelenaKo/cheat-sheets/wiki/Working-with-Bash)
+
+```
+╔  Bash script syntax
+╠  
+╚  
+```
+[▲ Page Up](#my-cheat-sheets)
+
 ---
 
 ## [JavaScript](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home)
@@ -25,6 +44,8 @@
 ╠  
 ╚  
 ```
+[▲ Page Up](#my-cheat-sheets)
+
 ---
 
 ## [ReactJS](https://github.com/YelenaKo/ReactJs-TodoList/wiki)
@@ -50,4 +71,6 @@
  ╠  @content
  ╚  @extend
 ```
+[▲ Page Up](#my-cheat-sheets)
+
 ---
