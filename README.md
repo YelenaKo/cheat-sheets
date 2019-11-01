@@ -1,10 +1,13 @@
 # My cheat sheets
 ---
 
-* [Git & GitHub](#git--github)
-* [Bash](#bash)
-* [JavaScript](#javascript)
-* [ReactJS](#reactjs)
+_[ # Git & GitHub ](#git--github)_
+
+_[ # Bash ](#bash)_
+
+_[ # JavaScript ](#javascript)_
+
+_[ # ReactJS ](#reactjs)_
 
 ---
 ## [Git & GitHub](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-Git-&-GitHub)
