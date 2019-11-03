@@ -7,7 +7,9 @@ _[ # Bash ](#bash)_
 
 _[ # JavaScript ](#javascript)_
 
-_[ # ReactJS ](#reactjs)_
+_[ # React App ](#react-app)_
+
+_[ # SASS](#sass)_
 
 ---
 ## [Git & GitHub](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-Git-&-GitHub)
@@ -51,10 +53,11 @@ _[ # ReactJS ](#reactjs)_
 
 ---
 
-## [ReactJS](https://github.com/YelenaKo/ReactJs-TodoList/wiki)
+## [React App](https://github.com/YelenaKo/ReactJs-TodoList/wiki)
 
-:octocat:   [Setting React Project](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Setting-React-Project)
-
+ 
+#### [Setting React Project](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Setting-React-Project)
+> :octocat:  
 ```
 ╔  Quick start creation React App
 ╠  Deploy to production
@@ -62,8 +65,8 @@ _[ # ReactJS ](#reactjs)_
 ╚  Generate a unique ID with node.js
 ```
 
-:octocat:   [SASS](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-SASS)
-
+####  [SASS](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-SASS)
+> :octocat:
 ```
 ╔  CSS to SCSS: Install & rebuild 
 ╠  SCSS variables
