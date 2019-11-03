@@ -30,8 +30,11 @@ _[ # SASS](#sass)_
 ## [Bash](https://github.com/YelenaKo/cheat-sheets/wiki/Working-with-Bash)
 
 ```
-╔  Bash script syntax
-╠  
+╔  Set permissions in bash
+╚╦   Classes of users
+ ╠   Numerical permissions
+╔╩   chmod
+╠  Bash script syntax
 ╚  
 ```
 [▲ Page Up](#my-cheat-sheets)
