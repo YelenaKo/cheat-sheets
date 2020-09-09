@@ -5,6 +5,8 @@ _[ # Git & GitHub ](#git--github)_
 
 _[ # Bash ](#bash)_
 
+_[ # CMD ](#cmd)_
+
 _[ # JavaScript ](#javascript)_
 
 _[ # React App ](#react-app)_
@@ -36,6 +38,24 @@ _[ # SASS](#sass)_
 ╔╩   chmod
 ╠  Bash script syntax
 ╚  
+```
+[▲ Page Up](#my-cheat-sheets)
+
+---
+
+## [CMD](https://github.com/YelenaKo/cheat-sheets/wiki/CMD)
+### CMD - Command Prompt - basic commands
+
+```
+╔  Help
+╠  Change the directory
+╠  To view the contents of a directory
+╠  To create a new directory
+╠  To rename files and folders
+╠  To delete files
+╠  To delete folders
+╠  To launch an app
+╚  Exit
 ```
 [▲ Page Up](#my-cheat-sheets)
 
