@@ -32,7 +32,8 @@ _[ # SASS](#sass)_
 ## [Bash](https://github.com/YelenaKo/cheat-sheets/wiki/Working-with-Bash)
 
 ```
-╔  Set permissions in bash
+╔  Basic commands
+╠  Set permissions in bash
 ╚╦   Classes of users
  ╠   Numerical permissions
 ╔╩   chmod
