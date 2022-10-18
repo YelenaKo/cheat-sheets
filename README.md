@@ -67,13 +67,25 @@ _[ # Work with WINDOWS](#Work-with-WINDOWS)_
 ## [JavaScript](https://github.com/YelenaKo/JS-and-DOM-manipulations-Project-0-TODO-App/wiki/Home)
 
 ```
-╔  ES6
-╠  Closures and Execution Stack
-╠  IIFE
-╠  First-Class Functions
+╔  New in ES6
+  ╠═  let, const
+  ╠═  Default parameter values
+  ╠═  for...of / for...in
+  ╠═  Arrow Functions
+  ╠═  Classes
+  ╠═  getPrototypeOf / setPrototypeOf
+╔  Closures and Execution Stack
+╠  Arrays
+╠  Objects
+╠  Prototypes
+╚  Functions
+  ╠═  IIFE
+  ╠═  First-Class Functions
+╔ 
 ╠  
 ╠  
-╚  
+╚ 
+
 ```
 [▲ Page Up](#my-cheat-sheets)
 
