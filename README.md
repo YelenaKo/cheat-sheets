@@ -13,6 +13,8 @@ _[ # React App ](#react-app)_
 
 _[ # SASS](#sass)_
 
+_[ # Work with WINDOWS](#Work-with-WINDOWS)_
+
 ---
 ## [Git & GitHub](https://github.com/YelenaKo/ReactJs-TodoList/wiki/Work-with-Git-&-GitHub)
 
@@ -100,6 +102,17 @@ _[ # SASS](#sass)_
  ╠  @mixin and @include
  ╠  @content
  ╚  @extend
+```
+[▲ Page Up](#my-cheat-sheets)
+
+---
+
+##  [Work with WINDOWS](https://github.com/YelenaKo/cheat-sheets/wiki/Work-with-WINDOWS)
+
+```
+╔  Microsoft training
+╠  Install & Setup
+╚  Administrator account
 ```
 [▲ Page Up](#my-cheat-sheets)
 
